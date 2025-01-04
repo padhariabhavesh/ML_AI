@@ -1,16 +1,7 @@
 # README.md
-## Machine Learning & Artificial Intelligence Project
+## Machine Learning & Artificial Intelligence 
 
-Welcome to the ML & AI project! This project contains various Machine Learning and Artificial Intelligence algorithms, data preprocessing techniques, and other related content to help you understand and implement AI solutions.
-
-## Project Structure
-
-ML_AI/
-├── Data_Preprocessing.py    # Data preprocessing script
-├── LICENSE                 # License file
-├── README.md               # Project documentation
-├── env/                    # Virtual environment folder
-├── requirements.txt        # Dependencies for the project
+Welcome to the ML & AI Repositories. This Repositories contains various Machine Learning and Artificial Intelligence algorithms, data preprocessing techniques, and other related content to help you understand and implement AI solutions.
 
 ## Installation Guide
 
